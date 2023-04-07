@@ -10,7 +10,7 @@
 
            <h1 class="text-3xl font-bold tracking-tight text-gray-900 capitalize">not fount </h1>
 
-<a href="/" class="underline text-3xl font-bold tracking-tight text-gray-900 capitalize text-blue-900">Comeback Home </a>
+<a href="/" class="underline text-3xl font-bold tracking-tight text-gray-900 capitalize text-blue-900">Comeback Home</a>
 
         </div>
     </main>
